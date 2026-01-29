@@ -1,0 +1,12 @@
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\bin\Debug\net8.0\PetPortal.deps.json
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\bin\Debug\net8.0\PetPortal.dll
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\bin\Debug\net8.0\PetPortal.pdb
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.AssemblyInfoInputs.cache
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.AssemblyInfo.cs
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.csproj.CoreCompileInputs.cache
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.sourcelink.json
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.dll
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\refint\PetPortal.dll
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\PetPortal.pdb
+C:\Users\TriBlackInferno\Capstone_QA\PetPortal\obj\Debug\net8.0\ref\PetPortal.dll
