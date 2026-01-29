@@ -1,5 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using PetPortal; // reference main project
+using PetPortal;  // import the namespace of main project
 
 namespace TEST_PetPortal
 {
@@ -9,7 +9,7 @@ namespace TEST_PetPortal
         [TestMethod]
         public void DoublesNumber_Input3_Returns9()
         {
-            var portal = new PetPortal(); // just use class name
+            var portal = new PetPortal(); // class from main project
             int result = portal.DoublesNumber(3);
             Assert.AreEqual(9, result);
         }
